@@ -20,3 +20,29 @@ OJ1 is a Django-based Online Judge platform where **teachers can upload programm
 - **Frontend**: Django templates with HTML/CSS/Bootstrap (or React)
 - **Backend**: Django Views, Models, and Forms
 
+
+---
+
+## 🧩 Core Modules
+
+| Module             | Description                                                                 |
+|--------------------|-----------------------------------------------------------------------------|
+| Authentication     | User registration, login, and role-based access (Student, Teacher)          |
+| Problem Management | Teachers can add, edit, or delete problems with test cases                  |
+| Code Submission    | Students can submit code for problems and get real-time verdicts            |
+| Results Feedback   | Verdict: "Correct", "Wrong Answer", "Runtime Error", etc.                   |
+| Dashboard          | Teachers can view submissions and performance analytics                    |
+
+
+
+## 🛠️ Tech Stack
+
+| Layer      | Technology                      |
+|------------|----------------------------------|
+| Language   | Python                          |
+| Framework  | Django                          |
+| Database   | PostgreSQL / SQLite             |
+| Frontend   | HTML, CSS, Bootstrap (or React) |
+| Judge Engine | Python subprocess / Docker    |
+| Authentication | Django's built-in auth system |
+
