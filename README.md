@@ -16,3 +16,7 @@ OJ1 is a Django-based Online Judge platform where **teachers can upload programm
 
 ## 🏛️ High-Level Architecture
 
+
+- **Frontend**: Django templates with HTML/CSS/Bootstrap (or React)
+- **Backend**: Django Views, Models, and Forms
+
