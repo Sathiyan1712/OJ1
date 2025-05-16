@@ -1,10 +1,10 @@
-# 🧠 OJ1: Online Judge Platform for Students and Teachers
+#  OJ1: Online Judge Platform for Students and Teachers
 
 OJ1 is a Django-based Online Judge platform where **teachers can upload programming problems**, and **students can solve them and get instant code verification**. It promotes practice-based learning, strengthens coding skills, and enables teachers to support student growth.
 
 ---
 
-## 📌 Project Goals
+##  Project Goals
 
 - Allow **students** to solve programming problems and receive feedback.
 - Allow **teachers** to:
@@ -14,7 +14,7 @@ OJ1 is a Django-based Online Judge platform where **teachers can upload programm
 
 ---
 
-## 🏛️ High-Level Architecture
+##  High-Level Architecture
 
 
 - **Frontend**: Django templates with HTML/CSS/Bootstrap (or React)
@@ -23,7 +23,7 @@ OJ1 is a Django-based Online Judge platform where **teachers can upload programm
 
 ---
 
-## 🧩 Core Modules
+##  Core Modules
 
 | Module             | Description                                                                 |
 |--------------------|-----------------------------------------------------------------------------|
@@ -35,7 +35,7 @@ OJ1 is a Django-based Online Judge platform where **teachers can upload programm
 
 
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 | Layer      | Technology                      |
 |------------|----------------------------------|
