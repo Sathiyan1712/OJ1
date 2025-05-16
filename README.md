@@ -35,7 +35,7 @@ OJ1 is a Django-based Online Judge platform where **teachers can upload programm
 
 
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer      | Technology                      |
 |------------|----------------------------------|
