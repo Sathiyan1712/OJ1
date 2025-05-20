@@ -7,12 +7,12 @@
 </head>
 <body>
     <h2>{{action | capfirst}} as: </h2>
-    {% if action== 'register1'%}
+    {% if action == 'register1' %}
    
-    <a href="{%url 'regis-tech'%}" class="button">Teacher</a>
+    <a href="{%url 'regis-teach'%}" class="button">Teacher</a>
     <a href="{%url 'regis-stud'%}" class="button">Student</a>
-    {%elif action =='login1'%}
-    <a href="{%url 'login-tech'%}" class="button">Teacher</a>
+    {%elif action == 'login1'%}
+    <a href="{%url 'login-teach'%}" class="button">Teacher</a>
     <a href="{%url 'login-stud'%}" class="button">Student</a>
     {%endif%}
 

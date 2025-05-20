@@ -10,7 +10,7 @@ def choose_action(request):
     context={
         'action':action,
     }
-    return render(request, 'choose_action.html',context)
+    return render(request, 'chose_action.html',context)
 
 def Register_teach(request):
     return 0
